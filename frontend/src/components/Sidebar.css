@@ -1,0 +1,35 @@
+.sidebar {
+  border-right: 1px solid #333;
+}
+
+.new-chat-btn {
+  background-color: transparent;
+  color: white;
+  border: 1px solid #555;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.new-chat-btn:hover {
+  background-color: #2a2b32;
+}
+
+.documents-section {
+  margin-top: 20px;
+}
+
+.attach-btn {
+  background-color: #343541;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.attach-btn:hover {
+  background-color: #40414f;
+}
